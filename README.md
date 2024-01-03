@@ -1,2 +1,2 @@
-# Spring-Project-CRUD
-Spring Project
+# users-manager
+Users Manager project
